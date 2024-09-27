@@ -13,7 +13,7 @@ In this demo, I will create and configure a static website hosted on AWS S3. The
 ### 1. Create an S3 Bucket
 - I navigated to the S3 service in the GENERAL account via the AWS Management Console.
 - Clicked **Create Bucket**.
-- Entered a globally unique bucket name `my-unique-website-bucket`.
+- Entered a globally unique bucket name `top10.animals4life.farah`.
 - Unchecked **Block All Public Access** and confirmed the acknowledgment.
 - Clicked **Create Bucket**.
 

@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e15ac781-c594-415b-9175-ef113369f1a2)# DEMO - AWS S3 Static Website Hosting
+# DEMO - AWS S3 Static Website Hosting
 
 ## Overview
 In this demo, I will create and configure a static website hosted on AWS S3. The process includes creating an S3 bucket, enabling static website hosting, uploading website files, and setting appropriate permissions for public access. This demo was completed using the GENERAL account, which was set up as the management account in a previous AWS Organizations demo.

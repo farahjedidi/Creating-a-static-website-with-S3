@@ -6,7 +6,7 @@ In this demo, I will create and configure a static website hosted on AWS S3. The
 ## Pre-Requisites
 
 - **AWS Account Setup**: I used the GENERAL account (management account) from my AWS Organizations setup to complete this demo.
-- **Required Files**: `index.html` and `error.html` for the main website and error page.
+- **Required Files**: `index.html` and `error.html` for the main website and error page and images in a "img" folder.
 
 ## Steps
 
